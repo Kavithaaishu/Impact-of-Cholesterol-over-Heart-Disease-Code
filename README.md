@@ -24,6 +24,7 @@
 
 ## 3. Data Cleaning
 Steps performed:
+
 ●	Removed/handled missing values.
 
 ●	Treated outliers in cholesterol values.
